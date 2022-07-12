@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 我目前不断的在学习Java相关的技术
+- 🌱 语雀：https://www.yuque.com/longyun-eqokj
+- 👯 CSDN: https://blog.csdn.net/weixin_45637300
+- 💬 QQ: 1653812264
+- 📫 LeetCode: https://leetcode.cn/u/longyun-2/
+- 😄 大家觉得不错可以star一下，一起学习一起进步
+
 <!--
 **yunlong826/yunlong826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 详情
+![Longyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunlong826&show_icons=true&theme=radical)
